@@ -1,0 +1,1 @@
+un proyecto para la empresa prodigia es un proyecto que utiliza tanto los servicios de AWS como las tecnologias modernas como en este caso react tambien tenemos en cuenta que se utilizaron varias Apis ademas de que se utilizaron funciones lambda por motivos de privacidad no se puede compartir el codigo pero si puedo compartir el resultado mostrando las imagenes 
